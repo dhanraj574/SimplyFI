@@ -12,13 +12,15 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/logo-component.git
+    git clone https://github.com/dhanraj574/SimplyFI.git
+
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd logo-component
+    cd cd SimplyFI
+
     ```
 
 3. **Install Dependencies:**
