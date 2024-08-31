@@ -19,7 +19,7 @@
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd cd SimplyFI
+    cd SimplyFI
 
     ```
 
